@@ -122,27 +122,28 @@ experiences:
           - Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
           - Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.
 
-      - role: Lark Frontend Intern
+      - role: Design Intern
         time: 03/2021 — 06/2021
-        company: ByteDance, Shanghai, China 
+        company: HDR, Arlington (VA), USA 
         details: |
-          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
-          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
-          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
+          - Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
+          - Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
+          - Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
 
-      - role: Project Assistant
-        time: 05/2020 — 08/2020
-        company: Roboticplus, Shanghai, China
+      - role: Research Assistant
+        time: 01/2021 — 03/2021
+        company: AZL Architects, Nanjing, China
         details: |
-            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
-            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
+            - Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.
+            - Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.
 
-      - role: System Test Design Lead
-        time: 10/2017 — 03/2018
-        company: Apple, Shanghai, China
+      - role: Assistant Architect
+        time: 07/2020 — 12/2020
+        company: MAD Architects, Beijing, China
         details: |
-            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
-            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+            - Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering.
+            - Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model.
+            - Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image.
             
 
 projects:
