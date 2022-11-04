@@ -75,55 +75,76 @@ education:
         university: University of Virginia
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Double majoring architecture and computer science with current GPA 3.95/4.00 
+            - Computer Science — Software Development (java), Data Structure (C++), Computer Architecture, Artifical Intelligence
+            - Architecture — Foundation Design Studios I-V, Architecture History I-III, Data Visualization, Urban Planning Studio (UDC)
+      
 experiences:
     title: Experiences in Computer Science
     info:
       - role: Java Developer Intern
         time: 06/2021 - 09/2021
-        company: Alibaba Group Holding Limited, Hangzhou, China
+        company: Alibaba, Hangzhou, China
         details: |
-          -  Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
-          -  Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
+          - Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
+
+      - role: Lark Frontend Intern
+        time: 03/2021 — 06/2021
+        company: ByteDance, Shanghai, China 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
+          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
+
+      - role: Project Assistant
+        time: 05/2020 — 08/2020
+        company: Roboticplus, Shanghai, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
+
+      - role: System Test Design Lead
+        time: 10/2017 — 03/2018
+        company: Apple, Shanghai, China
+        details: |
+            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+            
+experiences:
+    title: Experiences in Architecture
+    info:
+      - role: Design Intern
+        time: 05/2022 — 09/2022
+        company: Perkins&Will, Washington D.C., USA
+        details: |
+          - Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit.
+          - Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
+          - Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.
+
+      - role: Lark Frontend Intern
+        time: 03/2021 — 06/2021
+        company: ByteDance, Shanghai, China 
+        details: |
+          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
+          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
+
+      - role: Project Assistant
+        time: 05/2020 — 08/2020
+        company: Roboticplus, Shanghai, China
+        details: |
+            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
+
+      - role: System Test Design Lead
+        time: 10/2017 — 03/2018
+        company: Apple, Shanghai, China
+        details: |
+            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+            
+
 projects:
     title: Projects
     intro: >
