@@ -199,10 +199,10 @@ skills:
     title: Programming &amp; Design Skills
 
     toolset:
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS & JavaScript
         level: 90%
 
-      - name: Javas
+      - name: Java
         level: 90%
 
       - name: Python
@@ -214,13 +214,7 @@ skills:
       - name: Go
         level: 75%
 
-      - name: Adobe Photoshop
-        level: 95%
-
-      - name: Adobe Illustrator
-        level: 95%
-
-      - name: Adobe Indesign
+      - name: Adobe Photoshop & Illustrator & Indesign
         level: 95%
 
       - name: Rhino & SketchUp
