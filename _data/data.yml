@@ -226,10 +226,15 @@ skills:
       - name: Rhino & SketchUp
         level: 95%
 
-      - name: AutoCAD
-        level: 95%
+      - name: Grasshopper & Dynamo
+        level: 85%
 
-      
+      - name: ArcGIS
+        level: 85%
+
+      - name: Revit
+        level: 75%
+
 
 
 
