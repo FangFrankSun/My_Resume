@@ -82,7 +82,7 @@ education:
             - Computer Science — Software Development (java), Data Structure (C++), Computer Architecture, Artifical Intelligence
             - Architecture — Foundation Design Studios I-V, Architecture History I-III, Data Visualization, Urban Planning Studio (UDC)
       
-experiences:
+experiences1:
     title: Experiences in Computer Science
     info:
       - role: Java Developer Intern
@@ -114,7 +114,7 @@ experiences:
             - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
             - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
             
-experiences:
+experiences2:
     title: Experiences in Architecture
     info:
       - role: Design Intern
