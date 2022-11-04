@@ -156,25 +156,20 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Chess Alpha Pro
+      - title: Chess Alpha Pro [collaboration]
         link: "https://academics.fangfranksun.com/projects/1-chess-alpha-pro"
         tagline: "A chess reinforcement learning by AlphaGo Zero methods."
 
-      - title: DevStudio
-        link: "#"
-        tagline: ""
+      - title: Chess Lc0 Engine (Leela Chess Zero) [collaboration]
+        link: "https://academics.fangfranksun.com/projects/2-chess-lc0-engine"
+        tagline: "A strong UCT chess AI following the same type of techniques as AlphaZero using Stockfish’s position representation and move generation."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Readme Generator [collaboration]
+        link: "https://academics.fangfranksun.com/projects/3-readme-generator"
+        tagline: "A tool provides an easy way to create a GitHub profile readme with the latest add-ons such as github stats, personal skill set, etc."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
 
 # publications:
 #     title: Publications
