@@ -156,13 +156,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Chess Alpha Pro
+        link: "https://academics.fangfranksun.com/projects/1-chess-alpha-pro"
+        tagline: "A chess reinforcement learning by AlphaGo Zero methods."
 
       - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: ""
 
       - title: Tempo
         link: "#"
