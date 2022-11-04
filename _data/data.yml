@@ -93,8 +93,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-experiences in CS:
-    title: Experiences
+experiences:
+    title: Experiences in Computer Science
     info:
       - role: Java Developer Intern
         time: 06/2021 - 09/2021
