@@ -196,26 +196,46 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming &amp; Design Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: Javas
+        level: 90%
+
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++
+        level: 80%
+
+      - name: Go
+        level: 75%
+
+      - name: Adobe Photoshop
+        level: 95%
+
+      - name: Adobe Illustrator
+        level: 95%
+
+      - name: Adobe Indesign
+        level: 95%
+
+      - name: Rhino & SketchUp
+        level: 95%
+
+      - name: AutoCAD
+        level: 95%
+
+      
+
+
+
+
+
+
 
 footer: >
    <i class="fas fa-code"></i> Designed by <a href="https://academics.fangfranksun.com" target="_blank" rel="nofollow">Fang (Frank) Sun <i class="fas fa-leaf"></i> </a>
