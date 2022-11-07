@@ -155,6 +155,26 @@ experiences2:
             - Helped design the external façade of Tongji Building No.2, drew processing diagrams with AutoCAD.
 
 
+experiences3:
+    title: Other Experiences
+    info:
+      - role: Project Initiator/ Leader (PTA)
+        time: 10/2016 — 03/2018
+        company: ETCP, Beijing, China
+        details: |
+          - Organized a team of eight to research the parking issue in Shanghai.
+          - Developed the new parking system prototype, redesigned the public parking space with Rhino and BIM.
+          - Installed devices in garages in designed, publicized the application in AppStore and Google Play.
+          - Applied and received the national patent (201721325329.0).
+
+      - role: Chief Executive Officer (CEO)
+        time: 04/2019 — present
+        company: HummerChess Education, Shanghai, China
+        details: |
+          - Created chess education company to teach people from all ages chess playing.
+          - Self-made 270+ tutorial videos on Youtube, TikTok, Bilibili, etc, online, with more than 300,000 subscribers.
+          - Self-programmed chess playing website and mini-program in WeChat with Node.js and React.
+
 
 projects:
     title: Projects
