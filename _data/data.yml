@@ -116,13 +116,24 @@ experiences1:
 experiences2:
     title: Experiences in Architecture
     info:
+
+      - role: Teaching Assistant
+        time: 09/2022 — 12/2022
+        company: UVA (School of Architecture), Charlottesville (VA), USA
+        details: |
+          - Worked as TA in ARCH 1010 course, Lessons of the Lawn, Lead the discussion section of 14 undergraduate-level students with weekly essays based on the context from lecture and reading.
+          - Brainstormed with each student about essays and reading responses for the creative perspective about architecture, to understand architecture and history more thoroughly.
+          - Helped grade the class work, assignments, essays, reading responses for course instructor Professor Waldman. 
+
+
       - role: Design Intern
         time: 05/2022 — 09/2022
         company: Perkins&Will, Washington D.C., USA
         details: |
           - Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit.
           - Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
-          - Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.
+          - Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.  
+
 
       - role: Design Intern
         time: 12/2021 — 01/2022
@@ -131,6 +142,15 @@ experiences2:
           - Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
           - Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
           - Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
+
+
+      - role: Teaching Assistant
+        time: 09/2021 — 12/2021
+        company: UVA (School of Architecture), Charlottesville (VA), USA
+        details: |
+          - Worked as TA in PLAC 4010 and 6010 course, Neighborhood Planning Studio, tutored 16 graduate-level students using ArcGIS and Rhino to analyze the urban context in detailed drawing with Illustrator.
+          - Create different workshops with all kinds of software including Rhino, Revit, Grasshopper, ArcGIS and Adobe Suite to solve issues in later thesis development.
+
 
       - role: Research Assistant
         time: 01/2021 — 03/2021
