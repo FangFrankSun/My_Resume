@@ -206,39 +206,37 @@ experiences3:
           - Received the patent (**201721325329.0**); the project was acquired by ETCP, a leading company in intelligent parking.
 
 
-experiences1:
-    title: Experiences in Computer Science
-    info:
-      - role: Java Developer Intern
-        time: 06/2021 - 09/2021
-        company: Alibaba, Hangzhou, China
-        details: |
-          - Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
-          - Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
+# experiences1:
+#     title: Experiences in Computer Science
+#     info:
+#       - role: Java Developer Intern
+#         time: 06/2021 - 09/2021
+#         company: Alibaba, Hangzhou, China
+#         details: |
+#           - Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
+#           - Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
 
-      - role: Lark Frontend Intern
-        time: 03/2021 — 06/2021
-        company: ByteDance, Shanghai, China 
-        details: |
-          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
-          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
-          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
+#       - role: Lark Frontend Intern
+#         time: 03/2021 — 06/2021
+#         company: ByteDance, Shanghai, China 
+#         details: |
+#           - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
+#           - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+#           - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
 
-      - role: Project Assistant
-        time: 05/2020 — 08/2020
-        company: Roboticplus, Shanghai, China
-        details: |
-            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
-            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
+#       - role: Project Assistant
+#         time: 05/2020 — 08/2020
+#         company: Roboticplus, Shanghai, China
+#         details: |
+#             - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+#             - Assisted in the development of robot arms with C++, Java languages and programed their movements.
 
-      - role: System Test Design Lead
-        time: 10/2017 — 03/2018
-        company: Apple, Shanghai, China
-        details: |
-            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
-            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
-
-
+#       - role: System Test Design Lead
+#         time: 10/2017 — 03/2018
+#         company: Apple, Shanghai, China
+#         details: |
+#             - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+#             - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
 
 
 
@@ -251,7 +249,9 @@ experiences1:
 
 
 
-projects:
+
+
+Computer Science Projects:
     title: Projects
     assignments:
       - title: Chess Alpha Pro [collaboration]
@@ -269,27 +269,24 @@ projects:
 
       
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+
 
 skills:
     title: Programming &amp; Design Skills
