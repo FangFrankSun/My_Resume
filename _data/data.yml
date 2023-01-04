@@ -81,37 +81,6 @@ education:
             - Computer Science — [Software Development](https://www.cs.virginia.edu/~sherriff/cs2110/syllabus.php) (java), [Data Structure](https://www.cs.virginia.edu/~asb/cs2150.php)(C++), [Computer Architecture](https://www.cs.virginia.edu/~cr4bd/3330/F2021/), [Artifical Intelligence](https://www.haifeng-xu.com/cs4710sp20/index.htm)
             - Architecture — [Foundation Design Studios I-V](https://www.arch.virginia.edu/programs/architecture/undergraduate), [Architecture History I-III](https://www.arch.virginia.edu/programs/architectural-history/undergraduate), [Data Visualization], [Urban Planning Studio (UDC)](https://www.arch.virginia.edu/programs/urban-design)
       
-experiences1:
-    title: Experiences in Computer Science
-    info:
-      - role: Java Developer Intern
-        time: 06/2021 - 09/2021
-        company: Alibaba, Hangzhou, China
-        details: |
-          - Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
-          - Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
-
-      - role: Lark Frontend Intern
-        time: 03/2021 — 06/2021
-        company: ByteDance, Shanghai, China 
-        details: |
-          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
-          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
-          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
-
-      - role: Project Assistant
-        time: 05/2020 — 08/2020
-        company: Roboticplus, Shanghai, China
-        details: |
-            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
-            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
-
-      - role: System Test Design Lead
-        time: 10/2017 — 03/2018
-        company: Apple, Shanghai, China
-        details: |
-            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
-            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
             
 experiences2:
     title: Experiences in Architecture
@@ -179,7 +148,6 @@ experiences2:
             - Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java
             - Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing
 
-
       
       - role: Design Intern
         time: 02/2020 — 05/2020
@@ -192,23 +160,94 @@ experiences2:
 experiences3:
     title: Other Experiences
     info:
-      - role: Project Initiator/ Leader (PTA)
-        time: 10/2016 — 03/2018
-        company: ETCP, Beijing, China
-        details: |
-          - Organized a team of eight to research the parking issue in Shanghai.
-          - Developed the new parking system prototype, redesigned the public parking space with Rhino and BIM.
-          - Installed devices in garages in designed, publicized the application in AppStore and Google Play.
-          - Applied and received the national patent (201721325329.0).
 
-      - role: Chief Executive Officer (CEO)
-        time: 04/2019 — present
-        company: Shanghai Hummer Education, Shanghai, China
+      - role: Java Developer Intern
+        time: 06/2021 - 09/2021
+        company: Alibaba Group Holding Limited, Hangzhou, China
         details: |
-          - Started with tutoring people from all ages chess playing in person and online.
-          - Self-made 330+ tutorial videos on Youtube, TikTok, Bilibili, etc, online, with more than 300,000 subscribers.
-          - Self-programmed chess playing website and mini-program in WeChat with Node.js and React.
-          - Currently led the firm of 26 people, trying to develop the best chess playing and learning platform in China. The website will start to have programing related courses next year.
+          - Co-established the online Internet of Things (IoT) system for Xi’niu’s On-demand Production Factory
+          - Co-developed an automated customer management system for Xi’niu Factory to improve efficiency
+          - Reprogrammed label printers and embroidery machines with Java and ZPL to allow remote operations
+
+
+      - role: Lark Frontend Technical Intern
+        time: 03/2021 — 06/2021
+        company: Beijing ByteDance Technology Co., Ltd, Shanghai, China 
+        details: |
+          - Provided debug and customization services for users of Lark Open Platform (workplace apps developer)
+          - Fixed Lark interface compatibility issues and reviewed a part of Lark 4.0 updates before it went online
+          - Co-initiated Lark Knowledge Base and used Java & Python to encode and categorize previous solutions 
+
+
+      - role: Founder & CEO
+        time: 04/2019 — present
+        company: Hummer Education, Shanghai, China
+        details: |
+          - Expanded the company’s target customers from children to chess lovers of all ages 
+          - Produced and published 270+ tutorial videos on YouTube, TikTok, and Bilibili (more than 300,000 subscribers in total)
+          - Devised chess-playing website and WeChat mini-program with Node.js and React
+
+      - role: System Test Design Lead
+        time: 10/2017 — 03/2018
+        company: Apple, Shanghai, China
+        details: |
+          - Debugged 20 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing
+          - Collected and provided feedback on the user experience of the iOS 11 Application Program Interface 
+
+
+      - role: Initiator & Leader
+        time: 10/2016 — 03/2018
+        company: Aparkers (Smart Parking Development), Shanghai, China
+        details: |
+          - Led a team of 8 to identify the causes of parking problems in Shanghai
+          - Crafted a smart parking plan and visualized the parking space design with Rhino and BIM
+          - Developed and installed signal detection devices in existing parking lots to shorten waiting time
+          - Created an app providing parking guidance and promoted it in AppStore and Google Play
+          - Received the patent (**201721325329.0**); the project was acquired by ETCP, a leading company in intelligent parking.
+
+
+experiences1:
+    title: Experiences in Computer Science
+    info:
+      - role: Java Developer Intern
+        time: 06/2021 - 09/2021
+        company: Alibaba, Hangzhou, China
+        details: |
+          - Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
+          - Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
+
+      - role: Lark Frontend Intern
+        time: 03/2021 — 06/2021
+        company: ByteDance, Shanghai, China 
+        details: |
+          - Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs).
+          - Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+          - Provided coding support for SaaS customers from other companies using JavaScript and Postman.
+
+      - role: Project Assistant
+        time: 05/2020 — 08/2020
+        company: Roboticplus, Shanghai, China
+        details: |
+            - Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+            - Assisted in the development of robot arms with C++, Java languages and programed their movements.
+
+      - role: System Test Design Lead
+        time: 10/2017 — 03/2018
+        company: Apple, Shanghai, China
+        details: |
+            - Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+            - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
