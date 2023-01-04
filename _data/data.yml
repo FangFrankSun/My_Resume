@@ -239,18 +239,6 @@ experiences3:
 #             - Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 projects:
     title: Computer Science Projects
     assignments:
@@ -268,29 +256,23 @@ projects:
 
 
       
-awards:
+publications:
     title: Fellowship & Awards
     papers:
       - title: 2022 Erwin-Ramsey Fellowship (awarded to 1 undergraduate student at UVA School of Architecture each year)
       - title: 2022 Perkins&Will Summer Internship Design Competition, 2nd Prize
       - title: 2022 Competition to Renovate Historical Buildings in Nanjing, 2nd Prize
-        
-
-       
+           
 
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: "Sun, F. (2022). Zhouzhuang, Suzhou: The Change of Residential Space in Jiangnan Water Ancient Towns due to the Continuously Rising Commercialization. Journal of Planning Education and Research. (in press)"
 
-      - title: Sun, F. (2022). “Metabolism Tragedy” – The Deconstruction of Nakagin Tower. Journal of Architectural Education. (under review)
-      - title: Sun, F. (2022). How to Modify the Time of Yellow Traffic Lights in order to Improve Traffic Efficiency? International Journal of Mathematics. (submitted)
-      - title: Sun, F. (2022). Doppler Effect in a Circular Motion – Relationship Between Frequency Received and the Corresponding Angle. American Journal of Physics. (submitted)
+    papers:
+      - title: "Sun, F. (2022). Zhouzhuang, Suzhou: The Change of Residential Space in Jiangnan Water Ancient Towns due to the Continuously Rising Commercialization. Journal of Planning Education and Research. (*post-acceptance*)"
+      - title: Sun, F. (2022). “Metabolism Tragedy” – The Deconstruction of Nakagin Tower. Journal of Architectural Education. (*under peer review*)
+      - title: Sun, F. (2022). How to Modify the Time of Yellow Traffic Lights in order to Improve Traffic Efficiency? International Journal of Mathematics. (*submitted*)
+      - title: Sun, F. (2022). Doppler Effect in a Circular Motion – Relationship Between Frequency Received and the Corresponding Angle. American Journal of Physics. (*submitted*)
 
 
 skills:
@@ -326,9 +308,6 @@ skills:
 
       - name: Revit
         level: 75%
-
-
-
 
 
 
