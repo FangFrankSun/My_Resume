@@ -251,8 +251,8 @@ experiences3:
 
 
 
-Computer Science Projects:
-    title: Projects
+projects:
+    title: Computer Science Projects
     assignments:
       - title: Chess Alpha Pro [collaboration]
         link: "https://academics.fangfranksun.com/projects/1-chess-alpha-pro"
