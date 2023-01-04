@@ -117,23 +117,21 @@ experiences2:
     title: Experiences in Architecture
     info:
 
-      - role: Teaching Assistant
-        time: 09/2022 — 12/2022
-        company: UVA (School of Architecture), Charlottesville (VA), USA
+      - role: Design Intern
+        time: 12/2022 — Now
+        company: Studios Architecture, Washington D.C., USA
         details: |
-          - Worked as TA in ARCH 1010 course, *Lessons of the Lawn*, led the discussion section of 14 undergraduate-level students with weekly essays based on the context from lecture and reading.
-          - Brainstormed with each student about essays and reading responses for the creative perspective about architecture, to understand architecture and history more thoroughly.
-          - Helped grade the class work, assignments, essays, reading responses for course instructor Professor Waldman. 
+          - Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects
+          - Draw sections and plans for an ongoing educational institution project and produce interior renderings for presentation
 
 
       - role: Design Intern
-        time: 05/2022 — 09/2022
-        company: Perkins&Will, Washington D.C., USA
+        time: 09/2022 — 12/2022
+        company: Perkins&Will, Washington D.C, USA
         details: |
-          - Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit.
-          - Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
-          - Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.  
-
+          - Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates
+          - Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape
+          - Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo
 
       - role: Design Intern
         time: 12/2021 — 01/2022
