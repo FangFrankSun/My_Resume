@@ -8,7 +8,7 @@ sidebar:
     skills&proficiency: True
 
     # Profile information
-    name: Fang (Frank) Sun
+    name: Fang Sun
     tagline: 4th Year Undergraduate in UVa
     avatar: profile.png
 
@@ -62,7 +62,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Hi, I am Frank Sun<br>
+     Hi, I am Fang (Frank) Sun<br>
       - A senior student double majoring in [**Architecture**](https://arch.virginia.edu) and [**Computer Science**](https://engineering.virginia.edu) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). 
       - I am also a [**Chess National Master**]("https://us.chess.org") with USCF Rating 2359.
       - I have a firm called [**Hummer Education**](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills and now started to do software development courses as well, with online tutorials in Chinese for most of them.
@@ -268,11 +268,11 @@ publications:
 publications:
     title: Publications
 
-    papers:
-      - title: "Sun, F. (2022). Zhouzhuang, Suzhou: The Change of Residential Space in Jiangnan Water Ancient Towns due to the Continuously Rising Commercialization. Journal of Planning Education and Research. (*post-acceptance*)"
-      - title: Sun, F. (2022). “Metabolism Tragedy” – The Deconstruction of Nakagin Tower. Journal of Architectural Education. (*under peer review*)
-      - title: Sun, F. (2022). How to Modify the Time of Yellow Traffic Lights in order to Improve Traffic Efficiency? International Journal of Mathematics. (*submitted*)
-      - title: Sun, F. (2022). Doppler Effect in a Circular Motion – Relationship Between Frequency Received and the Corresponding Angle. American Journal of Physics. (*submitted*)
+    # papers:
+    #   - title: "Sun, F. (2022). Zhouzhuang, Suzhou: The Change of Residential Space in Jiangnan Water Ancient Towns due to the Continuously Rising Commercialization. Journal of Planning Education and Research. (*post-acceptance*)"
+    #   - title: Sun, F. (2022). “Metabolism Tragedy” – The Deconstruction of Nakagin Tower. Journal of Architectural Education. (*under peer review*)
+    #   - title: Sun, F. (2022). How to Modify the Time of Yellow Traffic Lights in order to Improve Traffic Efficiency? International Journal of Mathematics. (*submitted*)
+    #   - title: Sun, F. (2022). Doppler Effect in a Circular Motion – Relationship Between Frequency Received and the Corresponding Angle. American Journal of Physics. (*submitted*)
 
 
 
