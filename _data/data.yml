@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png
 
     # Sidebar links
-    email: fs3unu@virginia.edu
+    email: fang.sun@virginia.edu
     phone: +1 4342423564
     timezone: Eastern Daylight Time (GMT-4)
     citizenship:
@@ -91,7 +91,8 @@ experiences2:
         company: Studios Architecture, Washington D.C., USA
         details: |
           - Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects
-          - Draw sections and plans for an ongoing educational institution project and produce interior renderings for presentation
+          - Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation
+
 
       - role: Teaching Assistant
         time: 09/2022 — 12/2022
