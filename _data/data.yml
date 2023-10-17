@@ -63,9 +63,10 @@ career-profile:
     title: Career Profile
     summary: |
      Hi, I am Fang (Frank) Sun<br>
-      - A senior student majoring in [**Architecture**](https://arch.virginia.edu) and minoring in [**Computer Science**](https://engineering.virginia.edu) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). 
-      - I am also a [**Chess National Master**](https://uschess.org) with USCF Rating 2359.
-      - I have a firm called [**Hummer Education**](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills and now started to do software development courses as well, with online tutorials in Chinese for most of them.
+      - A designer at [**STUDIOS Architecture**](https://studios.com) 
+      - A recent graduate from [**University of Virginia**](https://www.virginia.edu) (joined August 2019) majoring in [**Architecture**](https://arch.virginia.edu) and minoring in [**Computer Science**](https://engineering.virginia.edu). 
+      - A [**Chess National Master**](https://uschess.org) with USCF Rating 2359.
+      - An owner of the firm called [**Hummer Education**](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills and now started to do software development courses as well, with online tutorials in Chinese for most of them.
 
 
 
@@ -77,7 +78,7 @@ education:
         university: University of Virginia
         time: 08/2019 - 05/2023
         details: |
-          Majoring in Architecture and minor in Computer science
+          Major in Architecture and minor in Computer science;
             - Computer Science — [Software Development](https://www.cs.virginia.edu/~sherriff/cs2110/syllabus.php) (java), [Data Structure](https://www.cs.virginia.edu/~asb/cs2150.php)(C++), [Computer Architecture](https://www.cs.virginia.edu/~cr4bd/3330/F2021/), [Machine learning](https://yangfengji.net/uva-ml-undergrad/), [Cybersecurity](https://aaronbloomfield.github.io/ics/uva/syllabus.html)
             - Architecture — [Foundation Design Studios I-V](https://www.arch.virginia.edu/programs/architecture/undergraduate), [Architecture History I-III](https://www.arch.virginia.edu/programs/architectural-history/undergraduate), Data Visualization, [Urban Planning Studio (UDC)](https://www.arch.virginia.edu/programs/urban-design), Research Studio, Thesis Studio
       
@@ -85,6 +86,12 @@ education:
 experiences2:
     title: Experiences in Architecture
     info:
+
+      - role: Full-time Designer
+        time: 07/2023 — current
+        company: Studios Architecture, Washington D.C., USA
+        details: |
+          
 
       - role: Design Intern
         time: 12/2022 — 01/2023
@@ -144,7 +151,7 @@ experiences2:
 
       - role: Project Assistant
         time: 05/2020 — 08/2020
-        company: Roboticsplus.AI (Shanghai) Co., Ltd, Shanghai, China
+        company: Roboticplus.AI (Shanghai) Co., Ltd, Shanghai, China
         details: |
             - Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java
             - Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing
