@@ -88,14 +88,17 @@ experiences2:
     info:
 
       - role: Full-time Designer
-        time: 07/2023 — current
-        company: Studios Architecture, Washington D.C., USA
+        time: 07/2023 — now
+        company: STUDIOS Architecture, Washington D.C., USA
         details: |
+          - Modeled the existing 3-story parking garage in D.C. with Revit and designed 6 parametric ceiling options with Dynamo
+          - Assisted with interior rendering for Institute of International Finance with Enscape, created various furniture layouts and material choices in Revit for 50% Design Development (DD) presentation
+          - Working on model fixation for Bond Bread Redevelopment at Howard University under Design Development (DD) phase, concentrated on remodeling all staircases and podiums, redesigning two entries, conducting canopy and roof drain studies.
           
 
       - role: Design Intern
         time: 12/2022 — 01/2023
-        company: Studios Architecture, Washington D.C., USA
+        company: STUDIOS Architecture, Washington D.C., USA
         details: |
           - Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects
           - Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation
