@@ -103,7 +103,7 @@ experiences2:
           - Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects
           - Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation
 
-
+.k
       - role: Teaching Assistant
         time: 09/2022 — 12/2022
         company: UVA (School of Architecture), Charlottesville (VA), USA
@@ -202,8 +202,9 @@ experiences3:
         time: 10/2017 — 03/2018
         company: Apple, Shanghai, China
         details: |
-          - Debugged 20 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing
-          - Collected and provided feedback on the user experience of the iOS 11 Application Program Interface 
+          - Solved 10 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing; conducted issue reports
+          - Helped design test cases covering functional and non-functional aspects, including localization and Internationalization, integration and regression (MacOS 10.13.8)
+          - Collected and provided feedback on the user experience of the iOS 11 Application Program Interface, created comprehensive documentation for internal team reviews
 
 
       - role: Initiator & Leader
