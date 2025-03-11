@@ -1,12 +1,13 @@
-{% assign skills = site.data.data.skills %}
+{% assign skills = site.data.data.sidebar.skills %}
 {% if skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
+  <h2 class="section-title"> 
+    <!-- container-block-title -->
+    <!-- <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
+    </span> -->
     {{ skills.title }}
   </h2>
 
