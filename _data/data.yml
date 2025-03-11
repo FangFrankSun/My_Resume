@@ -59,6 +59,22 @@ sidebar:
         - item: Cooking
           link:
 
+    skillH:
+    title: Programming &amp; Design Skills
+
+    toolset:
+      - name: HTML5 & CSS & JS
+        level: 90%
+
+      - name: Java
+        level: 90%
+
+      - name: Python
+        level: 85%
+
+      - name: C++
+        level: 80%
+
 
 career-profile:
     title: Career Profile
