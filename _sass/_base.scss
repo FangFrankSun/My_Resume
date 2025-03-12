@@ -250,17 +250,17 @@ p {
     overflow: hidden;
   }
   .level-title {
-    font-size: 10px;
+    font-size: 14px;
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
   }
   .level-bar {
-    height: 10px;
+    height: 12px;
     background: $smoky-white;
   }
   .level-bar-inner {
-    height: 10px;
-    background: lighten($theme-color, 10%);
+    height: 12px;
+    background: lighten($theme-color, 15%);
   }
 }
 
